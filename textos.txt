@@ -1,41 +1,4 @@
-﻿CORPUS DE ENTRENAMIENTO - FRAGMENTOS EN DOMINIO PUBLICO (PROYECTO GUTENBERG)
-Fuente general: https://www.gutenberg.org
-
-===== AUTOR: Miguel de Cervantes | OBRA: Don Quijote =====
-Fuente: https://www.gutenberg.org/files/2000/2000-0.txt
-
-El ingenioso hidalgo don Quijote de la Mancha
-
-
-
-por Miguel de Cervantes Saavedra
-
-
-
-
-
-El ingenioso hidalgo don Quijote de la Mancha
-
-
-  
-Tasa
-
-  
-Testimonio de las erratas
-
-  
-El Rey
-
-  
-Al Duque de Béjar
-
-  
-Prólogo
-
-  
-Al libro de don Quijote de la Mancha
-
-
+﻿Prólogo al libro de don Quijote de la Mancha
 
 Que trata de la condición y ejercicio del famoso
 hidalgo don Quijote de la Mancha
@@ -203,27 +166,6 @@ llevaban a don Quijote
 De la pendencia que don Quijote tuvo con el cabrero,
 con la rara aventura de los deceplinantes, a quien dio felice fin a
 costa de su sudor
-
-
-Segunda parte del ingenioso caballero don Quijote de la Mancha
-
-
-  
-Tasa
-
-  
-Fee de erratas
-
-  
-Aprobaciones
-
-  
-Dedicatoria, al conde de Lemos
-
-  
-Prólogo al lector
-
-
 
 De lo que el cura y el barbero pasaron con don
 Quijote cerca de su enfermedad
@@ -466,13 +408,6 @@ historia
 De cómo don Quijote cayó malo, y del testamento que
 hizo, y su muerte
 
-
-
-
-El ingenioso hidalgo don Quijote de la Mancha
-
-TASA
-
 Yo, Juan Gallo de Andrada, escribano de Cámara del Rey nuestro señor, de
 los que residen en su Consejo, certifico y doy fe que, habiendo visto por
 los señores dél un libro intitulado El ingenioso hidalgo de la Mancha,
@@ -485,18 +420,10 @@ libro, y no se pueda vender sin ella. Y, para que dello conste, di la
 presente en Valladolid, a veinte días del mes de deciembre de mil y
 seiscientos y cuatro años.
 
-Juan Gallo de Andrada.
-
-TESTIMONIO DE LAS ERRATAS
-
 Este libro no tiene cosa digna que no corresponda a su original; en
 testimonio de lo haber correcto, di esta fee. En el Colegio de la Madre de
 Dios de los Teólogos de la Universidad de Alcalá, en primero de diciembre
 de 1604 años.
-
-El licenciado Francisco Murcia de la Llana.
-
-EL REY
 
 Por cuanto por parte de vos, Miguel de Cervantes, nos fue fecha relación
 que habíades compuesto un libro intitulado El ingenioso hidalgo de la
@@ -542,18 +469,6 @@ a otras cualesquier justicias dellos, guarden y cumplan esta nuestra cédula
 y lo en ella contenido. Fecha en Valladolid, a veinte y seis días del mes
 de setiembre de mil y seiscientos y cuatro años.
 
-YO, EL REY.
-
-Por mandado del Rey nuestro señor:
-
-Juan de Amezqueta.
-
-
-AL DUQUE DE BÉJAR,
-
-marqués de Gibraleón, conde de Benalcázar y Bañares, vizconde de La Puebla de
-Alcocer, señor de las villas de Capilla, Curiel y Burguillos
-
 En fe del buen acogimiento y honra que hace Vuestra Excelencia a toda
 suerte de libros, como príncipe tan inclinado a favorecer las buenas artes,
 mayormente las que por su nobleza no se abaten al servicio y granjerías del
@@ -567,10 +482,6 @@ seguramente en el juicio de algunos que, continiéndose en los límites de su
 ignorancia, suelen condenar con más rigor y menos justicia los trabajos
 ajenos; que, poniendo los ojos la prudencia de Vuestra Excelencia en mi
 buen deseo, fío que no desdeñará la cortedad de tan humilde servicio.
-
-Miguel de Cervantes Saavedra.
-
-PRÓLOGO
 
 Desocupado lector: sin juramento me podrás creer que quisiera que este
 libro, como hijo del entendimiento, fuera el más hermoso, el más gallardo y
@@ -784,86 +695,6 @@ vanos de caballerías están esparcidas.
 
 Y con esto, Dios te dé salud, y a mí no olvide. Vale.
 
-AL LIBRO DE DON QUIJOTE DE LA MANCHA
-
-Urganda la desconocida
-Si de llegarte a los bue-,
-libro, fueres con letu-,
-no te dirá el boquirru-
-que no pones bien los de-.
-Mas si el pan no se te cue-
-por ir a manos de idio-,
-verás de manos a bo-,
-aun no dar una en el cla-,
-si bien se comen las ma-
-por mostrar que son curio-.
-Y, pues la expiriencia ense-
-que el que a buen árbol se arri-
-buena sombra le cobi-,
-en Béjar tu buena estre-
-un árbol real te ofre-
-que da príncipes por fru-,
-en el cual floreció un du-
-que es nuevo Alejandro Ma-:
-llega a su sombra, que a osa-
-favorece la fortu-.
-De un noble hidalgo manche-
-contarás las aventu-,
-a quien ociosas letu-,
-trastornaron la cabe-:
-damas, armas, caballe-,
-le provocaron de mo-,
-que, cual Orlando furio-,
-templado a lo enamora-,
-alcanzó a fuerza de bra-
-a Dulcinea del Tobo-.
-No indiscretos hieroglí-
-estampes en el escu-,
-que, cuando es todo figu-,
-con ruines puntos se envi-.
-Si en la dirección te humi-,
-
-no dirá, mofante, algu-:
-''¡Qué don Álvaro de Lu-,
-qué Anibal el de Carta-,
-qué rey Francisco en Espa-
-se queja de la Fortu-!''
-Pues al cielo no le plu-
-que salieses tan ladi-
-como el negro Juan Lati-,
-hablar latines rehú-.
-No me despuntes de agu-,
-ni me alegues con filó-,
-porque, torciendo la bo-,
-dirá el que entiende la le-,
-no un palmo de las ore-:
-''¿Para qué conmigo flo-?''
-No te metas en dibu-,
-ni en saber vidas aje-,
-que, en lo que no va ni vie-,
-
-pasar de largo es cordu-.
-Que suelen en caperu-
-darles a los que grace-;
-mas tú quémate las ce-
-sólo en cobrar buena fa-;
-que el que imprime neceda-
-dalas a censo perpe-.
-Advierte que es desati-,
-siendo de vidrio el teja-,
-tomar piedras en las ma-
-para tirar al veci-.
-Deja que el hombre de jui-,
-en las obras que compo-,
-se vaya con pies de plo-;
-que el que saca a luz pape-
-para entretener donce-
-escribe a tontas y a lo-.
-
-AMADÍS DE GAULA A DON QUIJOTE DE LA MANCHA
-
-Soneto
-
 Tú, que imitaste la llorosa vida
 que tuve, ausente y desdeñado sobre
 el gran ribazo de la Peña Pobre,
@@ -878,10 +709,6 @@ sus caballos aguije el rubio Apolo,
 tendrás claro renombre de valiente;
 tu patria será en todas la primera;
 tu sabio autor, al mundo único y solo.
-
-DON BELIANÍS DE GRECIA A DON QUIJOTE DE LA MANCHA
-
-Soneto
 
 Rompí, corté, abollé, y dije y hice
 más que en el orbe caballero andante;
@@ -898,10 +725,6 @@ Más, aunque sobre el cuerno de la luna
 siempre se vio encumbrada mi ventura,
 tus proezas envidio, ¡oh gran Quijote!
 
-LA SEÑORA ORIANA A DULCINEA DEL TOBOSO
-
-Soneto
-
 ¡Oh, quién tuviera, hermosa Dulcinea,
 por más comodidad y más reposo,
 a Miraflores puesto en el Toboso,
@@ -916,10 +739,6 @@ del comedido hidalgo don Quijote!
 Que así envidiada fuera, y no envidiara,
 y fuera alegre el tiempo que fue triste,
 y gozara los gustos sin escote.
-
-GANDALÍN, ESCUDERO DE AMADÍS DE GAULA, A SANCHO PANZA, ESCUDERO DE DON QUIJOTE
-
-Soneto
 
 Salve, varón famoso, a quien Fortuna,
 cuando en el trato escuderil te puso,
@@ -936,34 +755,6 @@ Salve otra vez, ¡oh Sancho!, tan buen hombre,
 que a solo tú nuestro español Ovidio
 con buzcorona te hace reverencia.
 
-DEL DONOSO, POETA ENTREVERADO, A SANCHO PANZA Y ROCINANTE
-
-Soy Sancho Panza, escude-
-del manchego don Quijo-.
-Puse pies en polvoro-,
-por vivir a lo discre-;
-que el tácito Villadie-
-toda su razón de esta-
-cifró en una retira-,
-según siente Celesti-,
-libro, en mi opinión, divi-
-si encubriera más lo huma-.
-A Rocinante
-Soy Rocinante, el famo-
-bisnieto del gran Babie-.
-Por pecados de flaque-,
-fui a poder de un don Quijo-.
-Parejas corrí a lo flo-;
-mas, por uña de caba-,
-no se me escapó ceba-;
-que esto saqué a Lazari-
-cuando, para hurtar el vi-
-al ciego, le di la pa-.
-
-ORLANDO FURIOSO A DON QUIJOTE DE LA MANCHA
-
-Soneto
-
 Si no eres par, tampoco le has tenido:
 que par pudieras ser entre mil pares;
 ni puede haberle donde tú te hallares,
@@ -978,10 +769,6 @@ puesto que, como yo, perdiste el seso.
 Mas serlo has mío, si al soberbio moro
 y cita fiero domas, que hoy nos llama
 iguales en amor con mal suceso.
-
-EL CABALLERO DEL FEBO A DON QUIJOTE DE LA MANCHA
-
-Soneto
 
 A vuestra espada no igualó la mía,
 Febo español, curioso cortesano,
@@ -998,10 +785,6 @@ Mas vos, godo Quijote, ilustre y claro,
 por Dulcinea sois al mundo eterno,
 y ella, por vos, famosa, honesta y sabia.
 
-DE SOLISDÁN A DON QUIJOTE DE LA MANCHA
-
-Soneto
-
 Maguer, señor Quijote, que sandeces
 vos tengan el cerbelo derrumbado,
 nunca seréis de alguno reprochado
@@ -1016,30 +799,6 @@ ni a vuesas cuitas muestra buen talante,
 en tal desmán, vueso conorte sea
 que Sancho Panza fue mal alcagüete,
 necio él, dura ella, y vos no amante.
-
-DIÁLOGO ENTRE BABIECA Y ROCINANTE
-
-Soneto
-
-B. ¿Cómo estáis, Rocinante, tan delgado?
-R. Porque nunca se come, y se trabaja.
-B. Pues, ¿qué es de la cebada y de la paja?
-R. No me deja mi amo ni un bocado.
-B. Andá, señor, que estáis muy mal criado,
-pues vuestra lengua de asno al amo ultraja.
-R. Asno se es de la cuna a la mortaja.
-¿Queréislo ver? Miraldo enamorado.
-B. ¿Es necedad amar? R. No es gran prudencia.
-B. Metafísico estáis. R. Es que no como.
-B. Quejaos del escudero. R. No es bastante.
-¿Cómo me he de quejar en mi dolencia,
-si el amo y escudero o mayordomo
-son tan rocines como Rocinante?
-
-Primera parte del ingenioso hidalgo don Quijote de la Mancha
-
-
-
 
 Capítulo primero. Que trata de la condición y ejercicio del famoso hidalgo
 don Quijote de la Mancha
@@ -1130,47 +889,6 @@ cobrase eterno nombre y fama. Imaginábase el pobre ya coronado por el valor
 de su brazo, por lo menos, del imperio de Trapisonda; y así, con estos tan
 agradables pensamientos, llevado del estraño gusto que en ellos sentía, se
 dio priesa a poner en efeto lo que deseaba.
-
-Y lo primero que hizo fue limpiar unas armas que
-
-===== FIN FRAGMENTO =====
-
-===== AUTOR: Ruben Dario | OBRA: Azul... =====
-Fuente: https://www.gutenberg.org/files/52894/52894-0.txt
-
-AZUL...
-
-                            [Illustration:
-
-                                AZUL...
-
-                                  POR
-
-                              RUBÉN DARÍO
-
-                             ILUSTRACIONES
-
-                                  DE
-
-                             ENRIQUE OCHOA
-
-                  Volumen IV de las obras completas.
-                       Administración: Editorial
-                             MUNDO LATINO
-
-                                MADRID]
-
-[Illustration: ES PROPIEDAD]
-
-
-
-
-A D. Rubén Darío.
-
-_Madrid, 22 de Octubre de 1888._
-
-
-I
 
 Todo libro, que desde América llega a mis manos, excita mi interés y
 despierta mi curiosidad; pero ninguno hasta hoy la ha despertado tan
@@ -1450,18 +1168,6 @@ Ahora será bien que yo cite muestras y pruebe que hay en su libro de
 usted, con notable elegancia, todo lo que afirmo; pero esto requiere
 segunda carta.
 
-
-II
-
-En la cubierta del libro que me ha enviado usted veo que ha publicado
-usted ya, o anuncia la publicación de otros varios, cuyos títulos son:
-_Epístolas y poemas_, _Rimas_, _Abrojos_, _Estudios críticos_, _Albumes
-y abanicos_, _Mis conocidos_ y _Dos años en Chile_. Anuncia también
-dicha cubierta que prepara usted una novela, cuyo título nos da en las
-narices del alma (pues si hay ojos del alma o tiene el alma ojos, bien
-puede tener narices) con un tufillo a pornografía. La novela se titula:
-_La carne_.
-
 Nada de esto, con todo, me sirve hoy para juzgar a usted, pues yo nada
 de esto conozco. Tengo que contraerme al libro _Azul_.
 
@@ -1484,19 +1190,10 @@ disonancia, ya de un ay de dolor, ya de una carcajada sarcástica. Aquel
 sabor amargo, que brota del centro mismo de todo deleite, y que tan bien
 experimentó y expresó el ateo Lucrecio,
 
-            _...medio de frute leporum_
-    _Surgit amari aliquid, quod im ipsis floribus angat_
-
-acude a menudo a interrumpir lo que usted llama
-
-    «La música triunfante de mis rimas.»
-
 Pero, como en usted hay de todo, noto en los versos, además del ansia
 del deleite y además de la amargura de que habla Lucrecio, la sed de lo
 eterno, esa aspiración profunda e insaciable de las edades cristianas,
 que el poeta pagano quizá no hubiera comprendido.
-
-Usted pide siempre más al hada, y...
 
       «El hada entonces me llevó hasta el velo
     que nos cubre las ansias infinitas,
@@ -2058,12 +1755,7 @@ Pero ¡cuánto calienta el alma una frase, un apretón de manos a tiempo!
 Hasta la vista.
 
 [Illustration: Cantó los senos de nieve tibia y las copas de oro
-labrado, y el buche del 
-
-===== FIN FRAGMENTO =====
-
-===== AUTOR: Emilio Castelar | OBRA: Recuerdos de Italia (parte 1) =====
-Fuente: https://www.gutenberg.org/files/53741/53741-0.txt
+labrado, y el buche del
 
 NOTA DE TRANSCRIPCIÓN
 
@@ -2844,11 +2536,6 @@ con su roquete de blanco encaje, y cubierto con un solideo, morado
 tambien, sobre el cual flotaba al cefirillo, como roja flor de
 granado, lustrosísima borla. Rompióse el silencio de la multitud en
 espantoso alarido. Unos de aquellos campesinos, que t
-
-===== FIN FRAGMENTO =====
-
-===== AUTOR: Arthur Conan Doyle | OBRA: The Adventures of Sherlock Holmes =====
-Fuente: https://www.gutenberg.org/files/1661/1661-0.txt
 
 The Adventures of Sherlock Holmes
 
@@ -3896,11 +3583,6 @@ midnight of the preceding night and ran in this way:
     call to-morrow. As to the photograph, your client may rest in
     peace. I love and am loved by a better man than he. The King may do
     what he will without hindrance from one whom he has cr
-
-===== FIN FRAGMENTO =====
-
-===== AUTOR: Felix Maria Samaniego | OBRA: Fabulas =====
-Fuente: https://www.gutenberg.org/files/55206/55206-0.txt
 
 FÁBULAS
 
@@ -5322,7 +5004,927 @@ El Zagal y las Ovejas.
     No se mueve la gente escarmentada,
     Y el lobo le d
 
-===== FIN FRAGMENTO =====
+E-text prepared by Juliet Sutherland, Chuck Greif, and the Project
+Gutenberg Online Distributed Proofreading Team (https://www.pgdp.net)
 
-===== AUTOR: Armando Palacio Valdes =====
-No se pudo descargar https://www.gutenberg.org/files/27738/27738-0.txt -> Error en el servidor remoto: (404) No se encontró.
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustration.
+      See 27738-h.htm or 27738-h.zip:
+      (https://www.gutenberg.org/dirs/2/7/7/3/27738/27738-h/27738-h.htm)
+      or
+      (https://www.gutenberg.org/dirs/2/7/7/3/27738/27738-h.zip)
+
+
+Transcriber's note:
+
+      Text enclosed between equal signs was in bold face in the
+      original (=bold=).
+
+
+
+
+
+Heath's Modern Language Series
+
+JOSÉ
+
+POR
+
+ARMANDO PALACIO VALDÉS
+
+Edited with Introduction and Notes by
+
+F. J. A. DAVIDSON, Ph.D.
+
+While Associate Professor of Italian and Spanish in
+the University of Toronto
+
+And with a Vocabulary by
+
+ALICE P. F. HUBBARD, M.A.
+
+Instructor in Spanish in Smith College
+
+
+
+
+
+
+
+[Illustration: "¡ACHICAR, MUCHACHOS, ACHICAR!"]
+
+
+
+D. C. Heath & Co., Publishers
+Boston New York Chicago
+
+Copyright, 1900
+by D. C. Heath & Co.
+
+
+
+
+PREFACE
+
+
+The present text was chosen for an annotated edition as being both good
+literature and good material for learning Spanish. It is hoped that the
+experience of those who may use the book will justify the choice. It is
+intended more particularly to follow the study of a reader or its
+equivalent; but there is no reason why it should not adapt itself to
+other stages of Spanish study, according as longer or shorter
+recitations are assigned, and more or less aid given by the instructor.
+
+The purpose of the introduction is simply to "introduce" the student to
+the author and his work, to convey some idea of their importance and to
+incite to further acquaintance with both. Nevertheless I believe that
+scholars will welcome the new information on the life of Sr. Valdés.
+
+The text is that of the sole Spanish edition (Madrid, 1885), the new
+edition in the _Obras Completas_ now in course of publication not having
+yet appeared. I have, however, beside correction of errata, changed two
+words and omitted ten to better adapt the text for class use.
+
+In the notes I have aimed to explain all serious difficulties. With
+their aid and that of grammar and dictionary the student should be able
+to present a correct translation. I have, however, by no means
+exhausted possibilities in annotation, believing that the reading of a
+text should not be a mere recitation, preferring that the interested
+student should have an opportunity to exercise his ability and apply the
+knowledge already acquired, and holding also that many explanations are
+better retained when given orally by the teacher to his class.
+
+I am happy to acknowledge here the generous aid of Professor W. H.
+Fraser of the University of Toronto, who examined the MS. of the notes
+and offered numerous valuable suggestions, not a few of which have been
+adopted, and also, and most particularly my debt of gratitude to the
+author of _José_, who so kindly accorded his sanction to this edition,
+who placed at my disposal hitherto unpublished biographical data, who
+furnished me some information otherwise inaccessible, and who by his
+friendly encouragement stimulated me to the completion of my work.
+
+F. J. A. D.
+
+STANFORD UNIVERSITY, CALIFORNIA,
+Jan. 10, 1900.
+
+NOTE TO EDITION OF 1909.--A vocabulary has been added in response to a
+considerable demand. Miss Alice P. F. Hubbard, of the University of
+Texas, kindly undertook the making of this vocabulary, from which I was
+prevented by pressure of other work. I have, however, revised the MS.
+and read the proof, and can heartily commend Miss Hubbard's work to
+users of this book. Text and notes have also been revised and a few
+errors eliminated.
+
+Since the appearance of the first edition Señor Valdés has produced two
+excellent novels: _La Aldea Perdida_, and _Tristán, o el Pesimismo_, and
+a series of his _Obras Completas_ is now in course of publication. The
+list of studies on this author has also increased, and for additional
+bibliography I take the liberty of referring to the scholarly edition of
+_La Alegría del Capitán Ribot_ by Messrs. Morrison and Churchman (D. C.
+Heath & Co.).
+
+F. J. A. D.
+
+UNIVERSITY OF TORONTO.
+
+
+
+
+INTRODUCTION[A]
+
+
+ARMANDO PALACIO VALDÉS was born on the 4th of October, 1853, at the
+village of Entralgo, in the mountains of Asturias, where his parents
+possessed a country-house and surrounding estate. His mother belonged to
+an old family of landed gentry. His father, a lawyer by profession, was
+in temperament emotional, and endowed with much imagination and an
+extraordinary talent for story-telling; these qualities rendered his
+society so agreeable that he attracted the sympathies of all who
+approached him. Sr. Valdés has said of his father, with characteristic
+modesty: "If I possessed but the half of his imagination and narrative
+talent I do not doubt that I should be a good novelist."
+
+Most of the members of his mother's family resided in Avilés (a maritime
+town of Asturias, described in _Marta y María_ under the name of Nieva),
+and between this town and Entralgo the Valdés alternated their
+residence, passing the winter in the former and the summer in the
+latter. Thus early the future novelist learned to know the life of
+sea-faring folk and also that of country people and farmers.
+
+At the age of twelve he began his secondary education at Oviedo, where
+he was under the care of a paternal uncle. This city, the capital of
+Asturias, is described in _El Maestrante_ under the name of Lancia.
+Although entering fully into the pleasures of school life he was a
+faithful student, and soon acquired a taste for both science and
+literature, aided in no small degree by the stimulus of other eager
+youths whose acquaintance he made. His friends, however, considered at
+this time that he was better endowed for the former.
+
+At seventeen he went to Madrid to begin the study of law, to which he
+devoted himself with great enthusiasm. His sole ambition now was to
+become a professor of political economy. He was admitted to membership
+in the famous literary and scientific club _El Ateneo_, studying deeply
+in its library and taking an active part in its labors. Before the end
+of his law course he was elected first secretary of the section of moral
+and political science of that association.
+
+Sr. Valdés celebrated his admission to the bar by the publication of
+several articles on philosophic and political subjects which attracted
+the attention of the proprietor of the _Revista Europea_, at that time
+the most important scientific periodical in Spain. In spite of his
+extreme youth--he was then but twenty-two years of age--the editorship
+of this review was entrusted to him, and he successfully fulfilled its
+duties for three years.
+
+Nothing as yet made the young editor imagine that he was to become a
+novelist. But in order to add to the interest of his publication he
+began to produce a series of literary portraits of orators, poets and
+novelists. This task revived the literary inclinations of his early
+years, and abandoning the control of the _Revista_, he wrote his first
+novel, _El Señorito Octavio_, a work which the author himself regards as
+of little merit, too lyric, and marred by a straining after effect. His
+friends, however, were quick to see the talent displayed, and their
+encouragement stimulated the production of a second novel, _Marta y
+María_, which is perhaps the best known of all. It was the occasion of
+the author's introduction to the American public through an article by
+Mr. W. Dean Howells in Harper's Magazine.
+
+Since then Sr. Valdés has continued to produce new novels at the rate of
+one each year or every two years. Those which have enjoyed the greatest
+popularity in Spain are _La Hermana San Sulpicio_ and _Los Majos de
+Cádiz_, novels of Andalusian life, in spite of the author's not being a
+native of that province.
+
+In the summer of 1882 Sr. Valdés met, in the small coast-town of Candás,
+Asturias, a young lady of fifteen, Luisa Prendes of Gijón (the Sarrió of
+_El Cuarto Poder_), who in the year following became his wife. The newly
+wedded pair established their household in Madrid, but were not destined
+long to enjoy their happiness, for eighteen months after their marriage
+Sra. Valdés expired in the arms of her husband, leaving him an infant
+son nine months old. This fatal event is the most important in the life
+of our author. From this time on he has lived devoted to his son,
+reading, writing, and retired from all political and literary commotion.
+
+Such are the biographical data which Sr. Valdés has thought fit to give
+to the public. More personal details he has not divulged, such
+"confessions" appearing to him both absurd and a profanation. But there
+is a key of which those who are interested in the life and character of
+the novelist may avail themselves, without violating his reserve. This
+key he gives us himself in a sentence which vindicates the personality
+of all art, "subjective" or "objective," realistic or romantic. "We
+novelists," he says, "write our biography, though disguisedly, in the
+works which we create." And he adds: "In mine is found almost all that
+has affected me in my life, but most particularly in _Maximina_."
+
+The following are, in chronological order, the novels of Valdés,
+produced between the years 1881-1899; _El Señorito Octavio_, 1 vol.;
+_Marta y María_, 1 vol.; _El Idilio de un enfermo_, 1 vol.; _José_, 1
+vol.; _Aguas fuertes (novelas y cuadros)_, 1 vol; _Riverita_, 2 vols.;
+_Maximina_, 2 vols.; _El Cuarto Poder_, 2 vols.; _La Hermana San
+Sulpicio_, 2 vols.; _La Espuma_, 2 vols.; _La Fe_, 1 vol.; _El
+Maestrante_, 1 vol.; _El Origen del Pensamiento_, 1 vol.; _Los Majos de
+Cádiz_, 1 vol.; _La Alegría del Capitán Ribot_, 1 vol.
+
+Beside these he has written the following critical works: _Los Oradores
+del Ateneo_, 1 vol., 1878: _Los Novelistas Españoles_, 1 vol., 1878;
+_Nuevo Viaje al Parnaso_, 1 vol., 1879; _La Literatura en 1881_, 1 vol.,
+in collaboration with Leopoldo Alas.
+
+Valdés, if we must classify him, belongs to the ranks of realism. In
+fact, Mr. J. Fitzmaurice Kelly declares that "he has a fair claim to
+rank as the chief of the modern naturalistic school." But we must hasten
+to modify this definition by restriction in one direction, amplification
+in another. This modification is necessary because Valdés has known how
+to maintain his originality amid the strife of schools, the seductions
+of praise, and the onslaught of adverse criticism. Blanco García speaks
+of him as a convert to naturalism, but we feel that his literary creed
+as manifested practically in his novels, theoretically in the prefaces
+to _Marta y María_ and _La Hermana San Sulpicio_, is the result of a
+natural bent of mind foreshadowed in his early affection for science,
+just as we may trace much of his fine description and character-drawing
+to his early observation of city, sea and country. To differentiate in
+the novelist what he derives from the general point of view which he has
+adopted from the measure of originality which marks his work, is the
+real difficulty in attempting to characterize Valdés.
+
+He chooses his material throughout from contemporary Spanish life. His
+work is based on an exactness of observation that shows him to have
+thoroughly studied the _milieux_ which he describes. His _tertulias_,
+aristocratic or plebeian, the envies and vanities, the petty intrigues,
+the fervors of religion, feigned or real, the flirtations and grand
+passions, all pulsate with life and truth, no less than the setting of
+nature with which his characters are so intimately interwoven that it
+seems as much a part of them as their words and acts. "The labor of
+Palacio amounts to cutting from the immeasurable canvas of reality
+heterogeneous portions, of warp coarse or fine, smooth or rough,
+according to the order in which they attract his eye, and demand the
+embroidery of his fancy and his pen."[B] In the choice of these
+"sections" we can divine the predilections of the artist. He is an
+optimist at heart and believes in the possibility of human nobleness,
+and so prefers the brighter colors of his palette. Not that his pictures
+lack in shadow: as a faithful novelist he does not hesitate to describe
+scenes of gloom and even horror, when they form naturally part of the
+story; he does so undeterred by any scruple. But though he believes that
+everything is worthy of being painted, he does not insist too much upon
+unpleasant detail, and often, as in the account of the quarrel between
+the mothers of José and Elisa in the present novel, cuts short a
+description of the ugly and sordid and turns with relief to brighter
+things. Even his baser characters, whose defects are brought out with
+remorseless justice, are not lacking in all human virtue and not seldom
+are explained, if not excused, by heredity or the circumstances of their
+environment. Valdés has a wide knowledge of life and though as a true
+realist he abstains from personal comment, we feel that he deeply
+sympathizes with human nature. For him _tout comprendre, c'est tout
+pardonner_. It is with shafts of gentle irony that he transfixes human
+foibles, an irony softened by the play of a delicate humor which is one
+of the most potent charms of his work. Valdés too, is a poet and knows
+how, not to idealize, but to emphasize the ideal and æsthetic elements
+that exist already in the most ordinary life, to weave from them a veil
+of poetry which softens the too familiar features of prose.
+
+There has been a steady development in the work of this author. Not so
+much in style, of which he has shown himself a master almost from the
+outset of his literary career. Not so much, either, in ideas, literary
+or general, though he never repeats himself, and each succeeding work
+brings to light new treasures of his mind. Rather should we say that his
+understanding of life has grown more comprehensive and more calm, and
+that he gives us more and more of his originality and less and less of
+the phase of literature which he still undoubtedly represents. In a
+recent letter to the present editor he says, apropos of _El Capitán
+Ribot_: "_Verá V. que me aparto cada día más del gusto predominante en
+la literatura moderna._" There is more synthesis of character, less
+analysis, and a distinct philosophy, indicated in earlier works, begins
+to stand out clearly as the final rounding of his view of life. It is a
+philosophy of sublime morality for its own sake and because immorality
+is fatal, the philosophy of a man who believes in the sanity of virtue
+and the wholesomeness of work, and who abhors sin without the hopes and
+fears inspired by theology. For Valdés is not orthodox; more than one of
+his novels is iconoclastic in this respect; but such is his sympathetic
+comprehension of attitudes of faith that we feel that his religion is
+deep and pure in spite of its dispensing with creed.
+
+Blanco García has only words of praise for _José_. He calls it "an idyll
+of truth, impregnated with the most chaste tenderness." "Valdés," he
+says, "shows himself penetrated by the panoramas of the sea and coast,
+and studies affectionately the manners and customs of a fishing-village,
+and an every-day story of two young people crossed in love, which
+furnishes the basic theme. The struggles of José, the chief character,
+who lends his name to the book, with his vixenish mother, with the
+rigors of fate and the fury of the waves, to gain the hand of his adored
+Elisa, and the heroism with which he suffers, and resigns himself, and
+triumphs over adversity, lend to the novel an epic hue, combined with
+realistic exactitude and beautified by the aureole of religious
+feeling." No less interesting, though in a different way, are the cold
+and calculating _señá_ Isabel, the henpecked school-master, and above
+all D. Fernando, the decayed nobleman, the incongruities of whose
+situation afford full scope to the author's sympathetic humor. Mr.
+Howells finds room for criticism in the final treatment of this
+character. "The author," he says, "helps himself out with a romantic and
+superfluous bit of self-sacrifice, and spoils the pleasure of the
+judicious in his work by the final behavior of an otherwise admirably
+studied hidalgo." It seems to us, on the contrary, that the _dénouement_
+was indicated: compelled to abandon the home of his race, and having
+accomplished his final mission of uniting the much-tried lovers, he
+dies, without dishonor, leaving behind him a grateful memory in the
+hearts of his friends.
+
+It was in critical work that Valdés first essayed his powers, prior to
+entering upon his career as a novelist. This early criticism is somewhat
+destructive in trend, but valuable as showing a thorough knowledge of
+the subjects treated and also "a fineness of touch, a delicacy of irony
+and a correct taste,"[C] which have not abandoned him in his later work.
+
+The style of Valdés is sure and simple, devoid like the personality of
+the author of all pose. There is no unnecessary expansion of
+descriptions, nor any useless display of erudition, although on occasion
+he gives evidence of wide reading. _La Fe_ particularly shows him versed
+alike in theology and philosophy, nor would it be easy to find a better
+comprehension of mysticism. His composition is equally balanced. As a
+rule, each character, each episode is treated within the limits of its
+importance. There is neither haste nor a too fond dwelling on detail; if
+there be a defect, it is on the side of sobriety: we could readily
+forgive his arresting the course of the story for the sake of a few more
+descriptions such as that at the end of Chapter VI. of the present
+novel.
+
+Valdés' work has been greatly admired both at home and abroad: on the
+whole, perhaps, he has won more consideration out of Spain than in it.
+This is perhaps natural, seeing his heterodoxy in matters of religion
+and the conservatism of his countrymen in this respect. In Spain, as has
+been stated, his two Andalusian novels have been most popular. In
+England _La Espuma_ and _Maximina_ are best known. In America we are
+most familiar with _Marta y María_, _Maximina_ and _La Hermana San
+Sulpicio_, through the translations of Mr. Nathan Haskell Dole. In
+France, Germany, Russia, Sweden, Holland and Bohemia translations of
+different of his works have seen the light. This international fame may
+well be taken as a prophecy of the future. The relative youth of the
+author allows us to hope for still greater things from his pen. But
+though his career is not yet closed, and though we lack the perspective
+of time to enable us to form a final judgment, this much may already be
+regarded as certain, that the novelist has attained a position in the
+literature of his country which posterity will recognize and honor.
+
+
+
+
+JOSÉ
+
+
+Si algún día venís a la provincia de Asturias,[1.1] no os vayáis sin
+echar una ojeada a Rodillero.[1.2] Es el pueblo más singular y extraño
+de ella, ya que no[1.3] el más hermoso. Y todavía en punto a belleza
+considero que se las puede haber[1.4] con cualquier otro, aunque no sea
+ésta la opinión general. La mayoría de las personas, cuando hablan de
+Rodillero, sonríen con lástima, lo mismo que cuando se mienta en la
+conversación a[1.5] un cojo o corcovado o a otro mortal señalado de modo
+ridículo por la mano de Dios. Es una injusticia. Confieso que Rodillero
+no es gentil, pero es sublime, lo cual importa más.
+
+Figuraos que camináis por una alta meseta de la costa, pintoresca y
+amena como el resto del país: desparramados por ella vais encontrando
+blancos caseríos, medio ocultos entre el follaje de los árboles, y
+quintas, de cuyas huertas cuelgan en piños[1.6] sobre el camino las
+manzanas amarillas sonrosadas: un arroyo cristalino serpea por el medio,
+esparciendo amenidad y frescura; delante tenéis la gran mancha azul del
+océano; detrás las cimas lejanas de algunas montañas que forman oscuro y
+abrupto cordón en torno de la campiña, que es dilatada y llana. Cerca ya
+de la mar, comenzáis a descender rápidamente, siguiendo el arroyo, hacia
+un barranco negro y adusto: en el fondo está Rodillero. Pero este
+barranco se halla cortado en forma de hoz, y ofrece no pocos tramos y
+revueltas[2.1] antes de desembocar en el océano. Las casuchas que
+componen el pueblo están enclavadas por entrambos lados en la misma
+peña, pues las altas murallas que lo cierran no dan espacio más que[2.2]
+para el arroyo y una estrecha calle que lo ciñe: calle y arroyo van
+haciendo eses,[2.3] de suerte que algunas veces os encontraréis con la
+montaña por delante, escucharéis los rumores de la mar detrás de ella y
+no sabréis por dónde seguir para verla: el mismo arroyo os lo irá
+diciendo. Salváis aquel tramo, pasáis por delante de otro montón de
+casas colocadas las unas encima de las otras en forma de
+escalinata,[2.4] y de nuevo dais con[2.5] la peña cerrándoos el paso.
+Los ruidos del océano se tornan[2.6] más fuertes, la calle se va
+ensanchando: aquí tropezáis con una lancha que están carenando, más allá
+con algunas redes tendidas en el suelo; percibiréis el olor nauseabundo
+de los residuos podridos del pescado; el arroyo corre más sucio y
+sosegado, y flotan sobre él algunos botes: por fin, al revolver de una
+peña[2.7] os halláis frente al mar. El mar penetra, al subir, por la
+oscura garganta engrosando el arroyo. La playa que deja descubierta al
+bajar no es de arena, sino de guijo. No hay muelle ni artefacto alguno
+para abrigar las embarcaciones: los marineros cuando tornan de la pesca
+se ven precisados a subir sus lanchas a la rastra[2.8] hasta ponerlas a
+seguro.
+
+Rodillero es un pueblo de pescadores. Las casas, por lo común, son
+pequeñas y pobres y no tienen vistas más que por delante; por detrás se
+las quita la peña a donde están adosadas.[2.9] Hay algunas menos malas,
+que pertenecen a las pocas personas de lustre[2.10] que habitan en el
+lugar, enriquecidas la mayor parte en el comercio del escabeche; suelen
+tener detrás un huerto labrado sobre la misma montaña, cuyo ingreso está
+en el piso segundo. Hay, además, tres o cuatro caserones solariegos,
+deshabitados, medio derruidos; se conoce que los hidalgos que los
+habitaban han huido hace tiempo de la sombría y monótona existencia de
+aquel pueblo singular. Cuando lo hayáis visitado, les daréis la
+razón.[3.1] Vivir en el fondo de aquel barranco oscuro donde los ruidos
+de la mar y del viento zumban como en un caracol, debe de ser bien
+triste.[3.2]
+
+En Rodillero, no obstante, nadie se aburre; no hay tiempo para ello. La
+lucha ruda, incesante, que aquel puñado de seres necesita sostener con
+el océano para poder alimentarse, de tal modo absorbe su atención, que
+no se echa menos[3.3] ninguno de los goces que proporcionan las grandes
+ciudades. Los hombres salen a la mar por la mañana o a media noche,
+según la estación, y regresan a la tarde: las mujeres se ocupan en
+llevar el pescado a las villas inmediatas, o en freírlo para escabeche
+en las fábricas, en tejer y remendar las redes, coser las velas y en los
+demás quehaceres domésticos. Adviértese[3.4] entre los dos sexos
+extraordinarias diferencias en el carácter y en el ingenio. Los hombres
+son comúnmente graves, taciturnos, sufridos, de escaso entendimiento y
+noble corazón. En la escuela se observa que los niños son despiertos de
+espíritu y tienen la inteligencia lúcida; pero según avanzan en años, se
+va apagando ésta poco a poco, sin poder atribuirlo[3.5] a otra causa que
+a la vida exclusivamente material que observan, apenas[3.6] comienzan a
+ganarse el pan: desde la mar a la taberna, desde la taberna a casa,
+desde casa otra vez a la mar, y así un día y otro día, hasta que se
+mueren o inutilizan.[4.1] Hay, no obstante, en el fondo de su alma una
+chispa de espiritualismo que no se apaga jamás, porque la mantiene viva
+la religión. Los habitantes de Rodillero son profundamente religiosos;
+el peligro constante en que viven les mueve a poner el pensamiento y la
+esperanza en Dios. El pescador todos los días se despide para el mar,
+que es lo desconocido; todos los días se va a perder en ese infinito
+azul de agua y de aire sin saber si volverá. Y algunas veces, en efecto,
+no vuelve: no se pasan nunca muchos años sin que Rodillero pague su
+tributo de carne al océano: en ocasiones el tributo es terrible: en el
+invierno de 1852 perecieron 80 hombres que representaban una tercera
+parte de la población útil. Poco a poco esta existencia va labrando su
+espíritu,[4.2] despegándoles de los intereses materiales, haciéndoles
+generosos, serenos, y con la familia tiernos: no abundan entre los
+marinos los avaros, los intrigantes y tramposos, como entre los
+campesinos.
+
+La mujer es muy distinta: tiene las cualidades de que carece su esposo,
+pero también los defectos. Es inteligente, de genio vivo y emprendedor,
+astuta y habilidosa,[4.3] por lo cual lleva casi siempre la dirección de
+la familia: en cambio suele ser codiciosa, deslenguada y pendenciera.
+Esto en cuanto a lo moral.[4.4] Por lo que toca a lo corporal, no hay
+más que[4.5] rendirse y confesar que no hay en Asturias y por ventura en
+España quien sostenga comparación con ellas. Altas, esbeltas, de carnes
+macizas y sonrosadas, cabellos negros abundosos, ojos negros también y
+rasgados,[4.6] que miran con severidad como los de las diosas griegas;
+la nariz, recta o levemente aguileña, unida a la frente por una línea
+delicada, termina con ventanas un poco dilatadas y de movilidad
+extraordinaria, indicando bien su natural impetuoso y apasionado; la
+boca fresca, de un rojo vivo que contrasta primorosamente con la
+blancura de los dientes; caminan con majestad, como las romanas; hablan
+velozmente y con acento musical, que las hace reconocer en seguida donde
+quiera que van; sonríen poco, y eso con cierto desdén olímpico. No creo
+que en ningún otro rincón de España se pueda presentar un ramillete de
+mujeres tan exquisito.
+
+En este rincón, como en todos los demás de la tierra, se representan
+comedias y dramas, no tan complicados como en las ciudades, porque son
+más simples las costumbres, pero quizá no menos interesantes. Uno de
+ellos se me ofrece que contar: es la historia sencilla de un pobre
+marinero. Escuchadla los que amáis[5.1] la humilde verdad, que a
+vosotros la dedico.
+
+
+
+
+I
+
+
+Eran las dos de la tarde. El sol resplandecía vivo, centelleante, sobre
+el mar. La brisa apenas tenía fuerza para hinchar las velas de las
+lanchas pescadoras que surcaban el océano a la ventura.[5.2] Los picos
+salientes de la costa y las montañas de tierra adentro[5.3] se veían a
+lo lejos envueltas en un finísimo cendal azulado. Los pueblecillos
+costaneros brillaban como puntos blancos en el fondo de las ensenadas.
+Reinaba silencio, el silencio solemne, infinito, de la mar en calma. La
+mayor parte de los pescadores dormían o dormitaban en varias y
+caprichosas actitudes; quiénes de bruces sobre el carel,[6.1] quiénes
+respaldados, quiénes[6.2] tendidos boca arriba sobre los _paneles_ o
+tablas del fondo. Todos conservaban en la mano derecha los hilos de los
+aparejos, que cortaban el agua por detrás de la lancha en líneas
+paralelas: la costumbre les hacía no soltarlos[6.3] ni en el sueño más
+profundo. Marchaban treinta o cuarenta embarcaciones a la vista unas de
+otras, formando a modo de escuadrilla,[6.4] y resbalaban tan despacio
+por la tersa y luciente superficie del agua, que a ratos parecían
+inmóviles. La lona tocaba a menudo en los palos, produciendo un ruido
+sordo que convidaba al sueño. El calor era sofocante y pegajoso, como
+pocas veces acontece en el mar.
+
+El patrón de una de las lanchas abandonó la caña del timón por un
+instante, sacó el pañuelo y se limpió el sudor de la frente; después
+volvió a empuñar la caña, y paseó una mirada escrutadora por el
+horizonte, fijándose[6.5] en una lancha que se había alejado bastante;
+presto volvió a su actitud descuidada, contemplando con ojos distraídos
+a sus dormidos compañeros. Era joven, rubio, de ojos azules; las
+facciones, aunque labradas y requemadas por la intemperie, no dejaban de
+ser[6.6] graciosas; la barba, cerrada y abundante; el traje, semejante
+al de todos los marineros, calzones y chaqueta de algodón azul y boina
+blanca; algo más fino, no obstante, y mejor arreglado.
+
+Uno de los marineros levantó al cabo la frente del carel, y
+restregándose los ojos, articuló oscuramente y con mal humor:
+
+--¡El diablo me lleve si no vamos a estar encalmados todo el día!
+
+--No lo creas--repuso el patrón escrutando de nuevo el
+horizonte,--antes de una hora ventará fresco del Oeste; el semblante
+viene de allá:[7.1] Tomás ya amuró[7.2] para ir al encuentro.
+
+--¿Dónde está Tomás?--preguntó el marinero, mirando al mar con la mano
+puesta sobre los ojos a guisa de pantalla.
+
+--Ya no se le ve.
+
+--¿Pescó algo?
+
+--No me parece...; pero pescará... y todos pescaremos. Hoy no nos vamos
+sin bonito[7.3] a casa.
+
+--Allá veremos[7.4]--gruñó el marinero echándose nuevamente de bruces
+para dormir.
+
+El patrón tornó a ser[7.5] el único hombre despierto en la embarcación.
+Cansado de mirar el semblante, el mar y las lanchas, puso los ojos en un
+marinero viejo que dormía boca arriba debajo de los bancos, con tal
+expresión de ferocidad en el rostro, que daba miedo. Mas el patrón, en
+vez de mostrarlo, sonrió con placer.
+
+--Oye, Bernardo--dijo tocando en el hombro al marinero con quien acababa
+de hablar;--mira qué cara tan fea pone el Corsario para dormir.[7.6]
+
+El marinero levantó otra vez la cabeza y sonrió también con expresión de
+burla.
+
+--Aguarda un poco, José, vamos a darle un chasco... Dame acá esa
+piedra...
+
+El patrón, comprendiendo en seguida, tomó un gran pedrusco que servía de
+lastre en la popa y se lo llevó en silencio a su compañero. Éste fue
+sacando del agua con mucha pausa y cuidado el aparejo del Corsario, y
+cuando hubo topado con el anzuelo, le amarró con fuerza el pedrusco y lo
+dejó caer muy delicadamente en el agua: y con toda presteza se echó de
+nuevo sobre el carel en actitud de dormir.
+
+--¡Ay, María![8.1]--gritó despavorido el marinero al sentir la fuerte
+sacudida del aparejo: la prisa de levantarse le hizo dar un
+testerazo[8.2] contra el banco; pero no se quejó.
+
+Los compañeros todos despertaron y se inclinaron de la banda de babor,
+por donde el Corsario comenzaba a tirar ufano[8.3] de su aparejo.
+Bernardo también levantó la cabeza, exclamando con mal humor:
+
+--¡Ya pescó el Corsario! ¡Se necesita que no haya un pez en la mar para
+que este recondenado no lo aferre![8.4]
+
+Al decir esto guiñó el ojo a un marinero, que a su vez dio un codazo a
+otro, y éste a otro; de suerte que en un instante casi todos se pusieron
+al tanto de[8.5] la broma.
+
+--¿Es grande, Corsario?--dijo otra vez Bernardo.
+
+--¿Grande?... Ven aquí a tener; verás cómo tira.
+
+El marinero tomó la cuerda que el otro le tendía, y haciendo grandes
+muecas de asombro frente a[8.6] sus compañeros, exclamó en tono solemne:
+
+--¡Así Dios me mate,[8.7] si no pesa treinta libras! Será el mejor
+animal de la costera.[8.8]
+
+Mientras tanto[8.9] el Corsario, trémulo, sonriente, rebosando de
+orgullo, tiraba vigorosamente, pero con delicadeza, del aparejo,
+cuidando de arriar de vez en cuando[8.10] para que no se le escapara la
+presa. Los rostros de los pescadores se inclinaban sobre el agua,
+conteniendo a duras penas la risa.
+
+--¿Pero qué imán o qué mil diablos traerá consigo[8.11] este ladrón, que
+hasta dormido aferra los peces?--seguía exclamando Bernardo con
+muecas cada vez más[9.1] grotescas.
+
+El Corsario notó que el bonito, contra su costumbre, tiraba siempre en
+dirección al fondo; pero no hizo caso,[9.2] y siguió[9.3] trayendo el
+aparejo, hasta que se vio claramente la piedra al través del agua.
+
+¡Allí fue Troya![9.4] Los pescadores soltaron todos a la vez el hilo de
+la risa,[9.5] que[9.6] harto lo necesitaban, prorrumpieron en gritos de
+alegría, se apretaban los ijares con los puños y se retorcían sobre los
+bancos sin poder sosegar el flujo de las carcajadas.
+
+--¡Adentro con él, Corsario, que ya está cerca!
+
+--No es bonito, pero es un pez muy estimado por lo tierno y sabroso.
+
+--Sobre todo con aceite y vinagre y un si es no es[9.7] de pimentón.
+
+--Apostad a que no pesa treinta libras como yo decía.
+
+El Corsario, mohino, fruncido y de malísimo talante, metió a bordo el
+pedrusco, lo desamarró y soltó de nuevo el aparejo al agua: después echó
+una terrible mirada a sus compañeros y murmuró:
+
+--¡Cochinos, si os hubierais visto en los apuros que yo,[9.8] no
+tendríais gana de bromas!
+
+Y se tendió de nuevo, gruñendo feos juramentos. La risa de los
+compañeros no se calmó por eso; prosiguió viva un buen rato, reanimada,
+cuando estaba a punto de fenecer, por algún chistoso comentario. Al fin
+se calmó, no obstante, o más bien, se fue trasformando en alegre
+plática, y ésta a la postre en letargo y sueño.
+
+Empezaba a refrescar la brisa: al ruido de la lona en los palos
+sucedió el susurro del agua en la quilla.
+
+El patrón, con la cabeza levantada, sin perder de vista las lanchas,
+aspiraba con delicia este viento precursor del pescado: echó una mirada
+a los aparejos para cerciorarse de que no iban enredados, orzó un poco
+para ganar el viento, atesó cuanto pudo la escota y se dejó ir. La
+embarcación respondió a estas maniobras ladeándose para tomar vuelo. Los
+ojos de lince del timonel observaron que una lancha acababa de aferrar.
+
+--Ya estamos sobre el bonito--dijo en voz alta; pero nadie despertó.
+
+Al cabo de un momento, el marinero más próximo a la proa gritó
+reciamente:
+
+--¡Ay, María!
+
+El patrón largó la escota para suspender la marcha. El marinero se
+detuvo antes de tirar, asaltado por el recuerdo de la broma anterior, y
+echando una mirada recelosa a sus compañeros, preguntó:
+
+--¿Es una piedra también?
+
+--¡Tira, animal!--gritó José temiendo que el pescado se fuese.
+
+El bonito había arrastrado ya casi todo el aparejo. El marinero comenzó
+a tirar con fuerza. A las pocas brazas de hilo que metió dentro,[10.1]
+lo arrió de nuevo, porque el pez lo mantenía harto vibrante, y no era
+difícil que lo quebrase; volvió a tirar y volvió a arriar; y de esta
+suerte, tirando y arriando, consiguió pronto que se distinguiese allá en
+el fondo un bulto oscuro que se revolvía furioso despidiendo destellos
+de plata: y cuanto más se le acercaba al haz del agua, mayores eran y
+más rabiosos sus esfuerzos por dar la vuelta[11.1] y escapar; y unas
+veces, cuando el pescador arriaba el cabo, parecía conseguirlo,
+remedando en cierto modo al hombre que, huyendo, se juzga libre de su
+fatal destino; y otras, rendido y exánime, se dejaba arrastrar
+dócilmente hacia la muerte. Al sacarlo de su nativo elemento y meterlo a
+bordo, con sus saltos y cabriolas salpicó de agua a toda la tripulación.
+Después, cuando le arrancaron el anzuelo de la boca, quedó inmóvil un
+instante, como si hiciese la mortecina;[11.2] mas de pronto[11.3]
+comenzó a sacudirse debajo de los bancos con tanto estrépito y furor,
+que en poco estuvo no saltase otra vez al agua.[11.4] Pero ya nadie
+hacía caso de él; otros dos bonitos se habían aferrado casi al mismo
+tiempo, y los pescadores se ocupaban en meterlos dentro.
+
+La pesca fue abundante. En obra de[11.5] tres o cuatro horas, entraron a
+bordo ciento y dos bonitos.
+
+--¿Cuántos?--preguntaron desde una lancha que pasaba cerca.
+
+--Ciento dos. ¿Y vosotros?
+
+--Sesenta.
+
+--¡No os lo dije yo!--exclamó Bernardo dirigiéndose a sus
+compañeros.--Ya veréis como no llega a ochenta la que más lleve a casa.
+Cuando un hombre se quiere casar, aguza las uñas que asombra[11.6]...
+
+Todos los rostros se entornaron sonrientes hacia el patrón, en cuyos
+labios también se dibujó una sonrisa, que hizo más bondadosa aún la
+expresión de su rostro.
+
+--¿Cuándo te casas, José?--preguntó uno de los marineros.
+
+--Tomás y Manuel ya amuraron para tierra--dijo él sin
+contestar.--Suelta esa driza, Ramón; vamos a cambiar.[12.1]
+
+Después que se hubo efectuado la maniobra, dijo Bernardo:
+
+--¿Preguntabais cuándo se casa José?... Pues bien claro está... En
+cuanto[12.2] se bote al agua la lancha.
+
+--¿Cuándo le dan brea?
+
+--Muy pronto: el calafate me dijo que antes de quince días
+quedaría[12.3] lista--repuso Bernardo.
+
+--Habrá tocino y jamón aquel día; ¿eh, José?
+
+--Y vino de Rueda superior--dijo otro.
+
+--Y cigarros de la Habana--apuntó un tercero.
+
+--Yo se lo perdonaba[12.4] todo--dijo Bernardo--con tal que el día de la
+boda nos llevase a ver la comedia a Sarrió.
+
+--Es imposible; ¿no reparas que aquella noche José no puede acostarse
+tarde?
+
+--Bien; pues entonces que nos dé los cuartos[12.5] para ir, y que él se
+quede en casa.
+
+El patrón lo escuchaba todo sin decir palabra, con la misma sonrisa
+benévola en los labios.
+
+--¡Qué mejor comedia--exclamó uno--que casarse con la hija de la
+maestra![12.6]
+
+--¡Bah, bah! ten cuidado con lo que hablas--dijo José entre risueño y
+enfadado.[12.7]
+
+Los compañeros celebraron la grosería como el chiste más delicado, y
+siguió la broma y cantaleta, mientras el viento, que comenzaba a
+sosegarse, los empujaba suavemente hacia tierra.
+
+
+
+
+II
+
+
+Comenzaba el crepúsculo cuando las barcas entraron en la ensenada de
+Rodillero. Una muchedumbre formada casi toda de mujeres y niños,
+aguardaba en la ribera, gritando, riendo, disputando; los viejos se
+mantenían algo más lejos sentados tranquilamente sobre el carel de
+alguna lancha que dormía sobre el guijo esperando la carena, mientras la
+gente principal o de media levita[13.1] contemplaba la entrada de los
+barcos desde los bancos de piedra que tenían delante las casas más
+vecinas a la playa. Antes de llegar, con mucho,[13.2] ya sabía la gente
+de la ribera, por la experiencia de toda la vida, que traían bonito. Y
+como sucedía siempre en tales casos, esta noticia se reflejaba en los
+semblantes en forma de sonrisa. Las mujeres preparaban los cestos a
+recibir la pesca, y se remangaban los brazos con cierta satisfacción
+voluptuosa; los chicos escalaban los peñascos más próximos a fin de
+averiguar prontamente lo que guardaba el fondo de las lanchas. Éstas se
+acercaban lentamente: los pescadores, graves, silenciosos, dejaban caer
+perezosamente los remos sobre el agua.
+
+Una tras otra fueron embarrancando[13.3] en el guijo de la ribera; los
+marineros se salían[13.4] de ellas dando un gran salto para no mojarse;
+algunos se quedaban a bordo para descargar el pescado, que iban
+arrojando pieza tras pieza[13.5] a la playa. Recogíanlas las mujeres, y
+con increíble presteza las despojaban de la cabeza y la tripa, las
+amontonaban después en los cestos, y remangándose las enaguas, se
+entraban algunos pasos por el agua a lavarlas. En poco tiempo, una buena
+parte de ésta, y el suelo de la ribera, quedaron teñidos de sangre.
+
+En cuanto saltaron a tierra, los patrones formaron un grupo y señalaron
+el precio del pescado. Los dueños de las bodegas de escabeche y las
+mujerucas[14.1] que comerciaban con lo fresco[14.2] esperaban recelosas
+a cierta distancia el resultado de la plática.
+
+Una mujer vestida con más decencia que las otras, vieja, de rostro
+enjuto, nariz afilada y ojos negros y hundidos, se acercó a José cuando
+éste se apartó del grupo, y le preguntó con ansiedad:
+
+--¿A cómo?
+
+--A real y medio.
+
+--¡A real y medio!--exclamó con acento colérico.--¿Y cuándo pensáis
+bajarlo?[14.3] ¿Pensáis que lo vamos a pagar lo mismo cuando haya mucho
+que cuando haya poco?
+
+--A mí no me cuente nada,[14.4] señá[14.5] Isabel--repuso avergonzado
+José.--Yo no he dicho esta boca es mía.[14.6] Allá ellos lo
+arreglaron.[14.7]
+
+--Pero tú has debido advertirles[14.8]--replicó la vieja con el mismo
+tono irritado--que no es justo; que nos estamos arruinando
+miserablemente; y en fin, que no podemos seguir así...
+
+--Vamos, no se enfade, señora... yo haré lo que pueda por que mañana se
+baje. Además, ya sabe...
+
+--¿Qué?
+
+--Que los dos quiñones de la lancha y el mío los puede pagar como
+quiera.
+
+--No te lo he dicho por eso--manifestó la señá Isabel endulzándose
+repentinamente;--pero tú bien te haces cargo[15.1] de que perdemos el
+dinero; que el maragato siguiendo así nos devolverá los
+barriles[15.2]... Mira, allí tienes a Elisa pesando; ve allá, que más
+gana tendrás de dar la lengua[15.3] con ella que conmigo.
+
+José sonrió, y diciendo adiós, se alejó unos cuantos pasos.
+
+--Oyes, José--le gritó la señá Isabel enviándole una sonrisa
+zalamera.--¿Conque al fin, a cómo me dejas eso?
+
+--A como V. quiera: ya se lo he dicho.
+
+--No, no; tú lo has de decidir.
+
+--¿Le parece mucho a diez cuartos?[15.4]--preguntó tímidamente.
+
+--Bastante--respondió la vieja sin dejar la sonrisa aduladora.--Vamos,
+para no andar en más cuestiones,[15.5] será a real, ¿te parece?
+
+José se encogió de hombros[15.6] en señal de resignarse, y encaminó los
+pasos hacia una de las varias bodegas que, con el pomposo nombre de
+fábricas, rodeaban la playa. A la puerta estaba una hermosa joven, alta,
+fresca, sonrosada, como la mayor parte de sus convecinas, aunque de
+facciones más finas y concertadas que el común de ellas. Vestía asimismo
+de modo semejante, pero con más aliño y cuidado; el pañuelo, atado a la
+espalda, no era de percal,[15.7] sino de lana; los zapatos de becerro
+fino, las medias blancas y pulidas; tenía los brazos desnudos, y,
+cierto, eran de lo más primoroso y acabado en su orden. Estaba
+embebecida[15.8] y atenta a la operación de pesar el bonito que en su
+presencia ejecutaban tres o cuatro mujeres ayudadas de un marinero: a
+veces ella misma tomaba parte sosteniendo el pescado entre las manos.
+
+Cuando sintió los pasos de José, levantó la cabeza, y sus grandes ojos
+rasgados y negros sonrieron con dulzura.
+
+--Hola José; ¿ya has despachado?
+
+--Nos falta[16.1] arrastrar los barcos. ¿Trajeron todo el pescado?
+
+--Sí, aquí está ya. Dime--continuó, acercándose a José,--¿a cómo lo
+habéis puesto?
+
+--A real y medio; pero a tu madre se lo he puesto a real.
+
+El rostro de Elisa se enrojeció súbitamente.
+
+--¿Te lo ha pedido ella?
+
+--No.
+
+--Sí, sí; no me lo niegues; la conozco bien...
+
+--Vaya, no te pongas seria[16.2]... Se lo he ofrecido yo a ese precio,
+porque comprendo que no puede ganar de otro modo...
+
+--Sí gana, José, sí gana--dijo con acento triste la joven.--Lo que hay
+es que quiere ganar más... El dinero es todo para ella.
+
+--Bah, no me arruinaré por eso.
+
+--¡Pobre José!--exclamó ella después de una pausa, poniéndole
+cariñosamente una mano sobre el hombro;--¡qué bueno eres!... Por
+fortuna, pronto se concluirán estas miserias que me avergüenzan. ¿Cuándo
+piensas botar la lancha?
+
+--Veremos si puede ser el día de San Juan.[16.3]
+
+--Entonces, ¿por qué no hablas ya con mi madre? El plazo que ha señalado
+ha sido ése: bueno fuera írselo recordando.
+
+--¿Te parece que debo hacerlo?
+
+--Claro está;[17.1] el tiempo se pasa, y ella no se da por
+entendida.[17.2]
+
+--Pues la hablaré en seguida; así que[17.3] arrastremos la lancha... si
+es que me atrevo--añadió un poco confuso.
+
+El que no se atreve, José, no pasa la mar[17.4]--contestó la joven
+sonriendo.
+
+--¿Hablaré a tu padrastro también?
+
+--Lo mismo da;[17.5] de todos modos, ha de ser lo que ella quiera.
+
+--Hasta luego,[17.6] entonces.
+
+--Hasta luego; procura abreviar, para que no nos cojas cenando.
+
+José se encaminó de nuevo a la ribera, donde ya los marineros comenzaban
+a poner la lancha en seco, con no poca pena y esfuerzo. El crepúsculo
+terminaba, y daba comienzo la noche. Las mujeres y los chicos ayudaban a
+sus maridos y padres en aquella fatigosa tarea de todos los días. Oíanse
+los gritos sostenidos de los que empujaban, para hacer simultáneo el
+esfuerzo; y entre las sombras, que comenzaban a espesarse, veíanse sus
+siluetas formando apretado grupo en torno de las embarcaciones; éstas
+subían con marcha interrumpida por la playa arriba[17.7] haciendo crugir
+el guijo. Cuando las alejaron bastante del agua para tenerlas a salvo,
+fueron recogiendo los enseres de la pesca que habían dejado esparcidos
+por la ribera, y echando una última mirada al mar, inmóvil y oscuro,
+dejaron aquel sitio y se entraron poco a poco en el lugar.
+
+José también enderezó los pasos hacia él cuando hubo dado las órdenes
+necesarias para el día siguiente. Siguió rápidamente la única calle,
+bastante clara a la sazón[18.1] por el gran número de tabernas que
+estaban abiertas: de todas salía formidable rumor de voces y juramentos.
+Y sin hacer caso de los amigos que le llamaban a gritos invitándole a
+beber, llegó hasta muy cerca de la salida del pueblo y entró en una
+tienda cuya claridad rompía alegremente la oscuridad de la calle. En
+aquella tendezuela[18.2] angosta y baja de techo como la cámara de un
+barco, se vendía de todo; bacalao,[18.3] sombreros, cerillas, tocino,
+catecismos y coplas. Ocupaban lugar preferente, no obstante, los
+instrumentos de pesca y demás enseres marítimos; tres o cuatro rollos
+grandes de cable yacían en el suelo sirviendo de taburetes; sartas de
+anzuelos colgaban de un remo atravesado de una pared a otra; y algunos
+botes[18.4] de alquitrán a medio consumir,[18.5] esparcían por la
+estancia un olor penetrante que mareaba a quien no estuviese avezado a
+sufrirlo. Pero la nariz de los tertulianos asiduos de la tienda no se
+daba por ofendida;[18.6] quizá no advertía siquiera la presencia de
+tales pebeteros.
+
+Sentada detrás de la tabla de pino que servía de mostrador, estaba la

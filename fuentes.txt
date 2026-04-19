@@ -1,0 +1,27 @@
+﻿FUENTES Y CREDITOS DEL CORPUS
+Origen general: Proyecto Gutenberg (https://www.gutenberg.org)
+Licencia de uso: Consulte los terminos de uso de Project Gutenberg para su jurisdiccion.
+
+[1] Autor: Miguel de Cervantes
+    Obra: Don Quijote
+    Fuente: https://www.gutenberg.org/files/2000/2000-0.txt
+
+[2] Autor: Ruben Dario
+    Obra: Azul...
+    Fuente: https://www.gutenberg.org/files/52894/52894-0.txt
+
+[3] Autor: Emilio Castelar
+    Obra: Recuerdos de Italia (parte 1)
+    Fuente: https://www.gutenberg.org/files/53741/53741-0.txt
+
+[4] Autor: Arthur Conan Doyle
+    Obra: The Adventures of Sherlock Holmes
+    Fuente: https://www.gutenberg.org/files/1661/1661-0.txt
+
+[5] Autor: Felix Maria Samaniego
+    Obra: Fabulas
+    Fuente: https://www.gutenberg.org/files/55206/55206-0.txt
+
+[6] Autor: Armando Palacio Valdes
+    Obra: Jose
+    Fuente: https://www.gutenberg.org/cache/epub/27738/pg27738.txt
