@@ -2,6 +2,13 @@
 
 Notebook que demuestra de forma muy simplificada cómo funcionan los modelos grandes de lenguaje (LLM): a partir de un corpus de texto en español, genera texto nuevo prediciendo la siguiente palabra según los n-gramas más frecuentes.
 
+## Cómo abrir este notebook
+
+1. Instala en Google Chrome la extensión **Open in Colab**.
+2. Abre el archivo **miniLLM_ngramas.ipynb** con Colab (opción *Open in Colab*).
+
+Archivo del notebook en este repositorio: `llm/miniLLM_ngramas.ipynb`.
+
 ## Créditos
 
 Inspirado en el capítulo 8 del curso [Inteligencia artificial y Educación de Programamos](https://programamos.es/ia/).  
