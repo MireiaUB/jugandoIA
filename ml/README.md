@@ -20,7 +20,7 @@ URL directa del editor de LearningML:
 1. Abre el programa en tu navegador https://learningml.org/lml-editor/?locale=es, y selecciona la opción "reconocimiento de números"
 2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/Iris.json
 3. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 37 valores para Iris-virginica, 36 para Iris-versicolor, y 34 para Iris-setosa.
-4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
+4. Selecciona la opción "Aprender a reconocer números" y espera a que termine.
 5. Valida el modelo con ejemplos de: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/validaciones-iris.txt (deberás consultarlos y entrar los valores manualmente)
 
 Puedes probar, por ejemplo, estas entradas del archivo de validación:
