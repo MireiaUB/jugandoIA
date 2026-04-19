@@ -11,8 +11,8 @@ Archivo del notebook en este repositorio: `llm/miniLLM_ngramas.ipynb`.
 
 ## Créditos
 
-Inspirado en el capítulo 8 del curso [Inteligencia artificial y Educación de Programamos](https://programamos.es/ia/).  
-Notebook elaborado por [Mireia Ribera] como adaptación del [cuaderno](https://colab.research.google.com/drive/12WY2pQXu_FMCbGN2uV1WdlH00yWJhcp-?usp=sharing) elaborado por [Jesús Moreno](http://jemole.me) para la asignatura **IA y accesibilidad** del [Máster de Formación Permanente en Accesibilidad digital para educación, comunicación y diseño](https://eared.org/).
+Inspirado en el capítulo 8 del curso [Inteligencia artificial y Educación](https://programamos.es/ia/) de Programamos.  
+Notebook elaborado por Mireia Ribera como adaptación del [cuaderno](https://colab.research.google.com/drive/12WY2pQXu_FMCbGN2uV1WdlH00yWJhcp-?usp=sharing) elaborado por [Jesús Moreno](http://jemole.me) para la asignatura **IA y accesibilidad** del [Máster de Formación Permanente en Accesibilidad digital para educación, comunicación y diseño](https://eared.org/).
 
 ## Fuentes del corpus
 
