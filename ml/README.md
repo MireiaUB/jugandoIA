@@ -23,6 +23,7 @@ URL directa del editor de LearningML:
 4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
 5. Valida el modelo con ejemplos de: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/validar.txt (deberás consultarlos y entrar los valores manualmente)
 
+
 Puedes probar, por ejemplo, estas entradas del archivo de validación:
 	- `5.0,3.2,1.2,0.2` -> `Iris-setosa`
 	- `5.6,2.7,4.2,1.3` -> `Iris-versicolor`
