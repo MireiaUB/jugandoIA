@@ -13,7 +13,7 @@ Se trabaja con dos datasets:
 
 URL directa del editor de LearningML:
 
-- https://learningml.org/lml-editor/
+- https://learningml.org/lml-editor/?locale=es
 
 ### Flores (`flores/`)
 
@@ -21,7 +21,7 @@ URL directa del editor de LearningML:
 2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/Iris.json
 3. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 37 valores para Iris-virginica, 36 para Iris-versicolor, y 34 para Iris-setosa.
 4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
-5. Valida el modelo con ejemplos de: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/validaciones-iris.txt (deberás consultarlos y entrar los valores manualmente)
+5. Valida el modelo con ejemplos de: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/validar.txt (deberás consultarlos y entrar los valores manualmente)
 
 Puedes probar, por ejemplo, estas entradas del archivo de validación:
 	- `5.0,3.2,1.2,0.2` -> `Iris-setosa`
@@ -31,12 +31,12 @@ Puedes probar, por ejemplo, estas entradas del archivo de validación:
 ### Mascotas (`mascotas/`)
 
 1. Abre el programa en tu navegador https://learningml.org/lml-editor/?locale=es, y selecciona la opción "reconocimiento de imágenes"
-2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas
+2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/GatoPerro.json
 3. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 43 imágenes de perros y 37 de gatos.
 4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
 3. Prueba tu reconocedor con alguna imagen de la carpeta `validar` del repositorio (deberás bajar las imágenes primero):
-	- Ejemplo gato: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/val/gato/13.jpg
-	- Ejemplo perro: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/val/perro/1065.jpg
+	- Ejemplo gato: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/validar/gato/13.jpg
+	- Ejemplo perro: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/validar/perro/1065.jpg
 Puedes probarlo también con tus propias imágenes.
 
 
