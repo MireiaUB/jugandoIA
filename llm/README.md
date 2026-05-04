@@ -4,10 +4,12 @@ Notebook que demuestra de forma muy simplificada cómo funcionan los modelos gra
 
 ## Cómo abrir este notebook
 
-1. Instala en Google Chrome la extensión **Open in Colab**.
-2. Abre el archivo **miniLLM_ngramas.ipynb** con Colab (opción *Open in Colab*).
+Paso 1.1. Instala en Google Chrome la extensión **Open in Colab**.
+Paso 1.2. Abre el archivo **miniLLM_ngramas.ipynb** con Colab (opción *Open in Colab*).
 
-Archivo del notebook en este repositorio: `llm/miniLLM_ngramas.ipynb`.
+Archivo del notebook en este repositorio: [llm/miniLLM_ngramas.ipynb] (https://github.com/MireiaUB/jugandoIA/tree/main/llm/miniLLM_ngramas.ipynb).
+
+Paso 1.3. Ejecuta las celdas del notebook una a una.
 
 ## Créditos
 

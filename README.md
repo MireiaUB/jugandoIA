@@ -8,3 +8,6 @@ Este repositorio contiene dos pequeñas demostraciones del funcionamiento de los
 
 - **[`llm/`](llm/)** — Demostración de modelos grandes de lenguaje (LLM) mediante un mini-modelo de generación de texto basado en n-gramas. Inspirado en el capítulo 8 del curso [Inteligencia artificial y Educación](https://programamos.es/ia/) de Programamos.
 - **[`ml/`](ml/)** — Demostración de aprendizaje automático con ejemplos de clasificación de imágenes. Basada en el uso de [Learning ML](https://learningml.org/), una aplicación desarrollada por Juan David Rodríguez García.
+
+Paso 1. Abrir la carpeta llm y leer el Readme de esa carpeta. Seguir con las instrucciones incluidas y cuando se termine ir al paso 2.
+Paso 2. Abrir la carpeta ml y leer el Readme de esa carpeta. Seguir con las instrucciones.
