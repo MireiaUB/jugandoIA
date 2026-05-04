@@ -18,9 +18,13 @@ URL directa del editor de LearningML:
 ### Flores (`flores/`)
 
 2.1. Abre el programa en tu navegador https://learningml.org/lml-editor/?locale=es, y selecciona la opción "reconocimiento de números"
+
 2.2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/Iris.json
+
 2.3. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 37 valores para Iris-virginica, 36 para Iris-versicolor, y 34 para Iris-setosa.
+
 2.4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
+
 2.5. Valida el modelo con ejemplos de: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/flores/validar.txt (deberás consultarlos y entrar los valores manualmente)
 
 
@@ -32,9 +36,13 @@ Puedes probar, por ejemplo, estas entradas del archivo de validación:
 ### Mascotas (`mascotas/`)
 
 2.6. Abre el programa en tu navegador https://learningml.org/lml-editor/?locale=es, y selecciona la opción "reconocimiento de imágenes"
+
 2.7. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/GatoPerro.json
+
 2.8. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 43 imágenes de perros y 37 de gatos.
+
 2.9. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
+
 2.10. Prueba tu reconocedor con alguna imagen de la carpeta `validar` del repositorio (deberás bajar las imágenes primero):
 	- Ejemplo gato: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/validar/gato/13.jpg
 	- Ejemplo perro: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/validar/perro/1065.jpg
