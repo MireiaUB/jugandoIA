@@ -31,15 +31,14 @@ Puedes probar, por ejemplo, estas entradas del archivo de validación:
 
 ### Mascotas (`mascotas/`)
 
-1. Abre el programa en tu navegador https://learningml.org/lml-editor/?locale=es, y selecciona la opción "reconocimiento de imágenes"
-2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/GatoPerro.json
-3. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 43 imágenes de perros y 37 de gatos.
-4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
-3. Prueba tu reconocedor con alguna imagen de la carpeta `validar` del repositorio (deberás bajar las imágenes primero):
+2.1. Abre el programa en tu navegador https://learningml.org/lml-editor/?locale=es, y selecciona la opción "reconocimiento de imágenes"
+2.2. Descarga en tu ordenador el conjunto de datos ya preparado: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/GatoPerro.json
+2.3. Sube los datos de entrenamiento a la aplicación: Archivo - Subir conjunto de datos desde tu ordenador. Apareceran 43 imágenes de perros y 37 de gatos.
+2.4. Selecciona la opción "Aprender a reconocer imágenes" y espera a que termine.
+2.5. Prueba tu reconocedor con alguna imagen de la carpeta `validar` del repositorio (deberás bajar las imágenes primero):
 	- Ejemplo gato: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/validar/gato/13.jpg
 	- Ejemplo perro: https://raw.githubusercontent.com/MireiaUB/jugandoIA/main/ml/mascotas/validar/perro/1065.jpg
 Puedes probarlo también con tus propias imágenes.
-
 
 ## Fuentes de los datasets
 
